@@ -1,0 +1,23 @@
+{
+  "name": "tableau-apply-all",
+  "version": "1.0.0",
+  "description": "Tableau extension that dynamically queries filters and provides the much requested \"apply all\" functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenlprice/tableau-apply-all.git"
+  },
+  "keywords": [
+    "tableau",
+    "tableau-extension"
+  ],
+  "author": "https://github.com/stephenlprice",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/stephenlprice/tableau-apply-all/issues"
+  },
+  "homepage": "https://github.com/stephenlprice/tableau-apply-all#readme"
+}
